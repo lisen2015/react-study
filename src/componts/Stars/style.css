@@ -1,0 +1,15 @@
+.stars {
+    padding: 5px;
+    user-select: none;
+}
+
+.stars__item {
+    font-size: 20px;
+    padding: 0px 3px;
+    color: #999;
+    cursor: pointer;
+}
+
+.stars__item--red {
+    color: #e9203d;
+}

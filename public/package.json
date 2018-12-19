@@ -1,0 +1,17 @@
+{
+  "name": "NW-React-Demo",
+  "main": "./index.html",
+  "build": "20181204",
+  "version": "0.0.1",
+  "homepage": "https://nwjs.io/",
+  "description": "NW-React-Demo",
+  "window": {
+    "title": "NW-React-Demo",
+    "position": "center",
+    "width": 414,
+    "height": 736,
+    "toolbar": true,
+    "frame": true,
+    "resizable": true
+  }
+}
