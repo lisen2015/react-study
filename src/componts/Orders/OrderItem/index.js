@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './style.css'
 import Comment from '../Comment';
 // 加载配置文件
-import globalConfig from '../../static/global.config'
+import globalConfig from '../../../static/global.config'
 
 class OrderItem extends Component {
     constructor(props) {

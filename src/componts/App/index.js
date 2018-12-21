@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 import './style.css';
 import Header from '../Header';
-import OrderList from '../OrderList';
+import Lightning from '../LigtningCounter/Lightning';
+import OrderList from '../Orders/OrderList';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <Header></Header>
-        <OrderList></OrderList>
+        <Header/>
+        <Lightning/>
+        <OrderList/>
       </div>
     );
   }

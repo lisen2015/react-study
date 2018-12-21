@@ -91,3 +91,9 @@ yarn run test:chrome
 并且会在你的项目目录中生成一个新的文件夹，react-devtools -> shells -> chrome -> build -> unpacked文件夹
 
 打开chrome扩展程序<a href='chrome://extensions/'>chrome://extensions/</a>，加载已解压的扩展程序，选择第3步中的生成的unpacked文件夹。这时就会添加一个新的扩展程序react-devtools，并在你的浏览器右上角会有个react标志, 就表示成功啦。
+
+
+---
+
+### `React Router` API
+`http://react-guide.github.io/react-router-cn/docs/Introduction.html`
