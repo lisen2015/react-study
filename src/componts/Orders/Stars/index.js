@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './style.css'
 
 // 加载配置文件
-import globalConfig from '../../..//static/global.config'
+import globalConfig from '@/static/global.config'
 
 class Stars extends Component {
     constructor(props) {

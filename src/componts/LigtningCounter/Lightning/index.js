@@ -13,4 +13,4 @@ class Lightning extends Component {
     }
 }
  
-export default Lightning;
+export default Lightning;   
