@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+
+import LightningCounterDisplay from "./LightningCounterDisplay";
+
 class Lightning extends Component {
     constructor(props) {
         super(props);
@@ -7,10 +10,10 @@ class Lightning extends Component {
     render() { 
         return ( 
             <div>
-                aaaaa
+                <LightningCounterDisplay/>
             </div>
          );
     }
 }
  
-export default Lightning;   
+export default Lightning;

@@ -1,0 +1,10 @@
+.lightningCounterDisplay{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    padding: 40px;
+    color: #999;
+    font-family: sans-serif;
+    border-radius: 10px;
+}

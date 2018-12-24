@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './style.css';
 import Header from '../Header';
-import Lightning from '../LigtningCounter/Lightning';
+import Lightning from '../Lightning';
 import OrderList from '../Orders/OrderList';
 
 class App extends Component {
